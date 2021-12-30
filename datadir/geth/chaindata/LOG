@@ -1,0 +1,17 @@
+=============== Dec 30, 2021 (IST) ===============
+16:05:39.411364 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:05:39.641907 db@open opening
+16:05:39.879406 version@stat F·[] S·0B[] Sc·[]
+16:05:39.973863 db@janitor F·2 G·0
+16:05:40.009719 db@open done T·366.7113ms
+=============== Dec 30, 2021 (IST) ===============
+16:11:13.887056 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:11:13.888032 version@stat F·[] S·0B[] Sc·[]
+16:11:13.888032 db@open opening
+16:11:13.889032 journal@recovery F·1
+16:11:13.919165 journal@recovery recovering @1
+16:11:13.944302 version@stat F·[] S·0B[] Sc·[]
+16:11:14.095914 db@janitor F·2 G·0
+16:11:14.095914 db@open done T·207.8817ms
+22:22:14.929242 db@close closing
+22:22:14.929242 db@close done T·0s

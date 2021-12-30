@@ -1,0 +1,18 @@
+admin.
+eth.coinbase
+miner.setEtherbase('0x7edfc8ef69a29ffc98ce303ffcd1abacf5acd121')
+eth.coinbase
+eth.getBalance('0x660342c4a34fda788b7f8d378058945cadb87ad3')
+eth.getBalance('0x7edfc8ef69a29ffc98ce303ffcd1abacf5acd121')
+miner.start()
+miner.stop()
+geth --help
+eth.blockNumber
+miner.start()
+miner.stop()
+eth.blockNumber
+miner.start()
+miner.stop()
+exit()
+clear
+.exit
