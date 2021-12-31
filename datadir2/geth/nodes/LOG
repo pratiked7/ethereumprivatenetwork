@@ -1,0 +1,44 @@
+=============== Dec 31, 2021 (IST) ===============
+09:45:28.241947 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+09:45:28.308983 db@open opening
+09:45:28.321007 version@stat F·[] S·0B[] Sc·[]
+09:45:28.353300 db@janitor F·2 G·0
+09:45:28.353300 db@open done T·43.7806ms
+09:45:29.411566 db@close closing
+09:45:29.412083 db@close done T·516.2µs
+=============== Dec 31, 2021 (IST) ===============
+09:46:03.551910 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+09:46:03.552457 version@stat F·[] S·0B[] Sc·[]
+09:46:03.552457 db@open opening
+09:46:03.552457 journal@recovery F·1
+09:46:03.554586 journal@recovery recovering @1
+09:46:03.601041 memdb@flush created L0@2 N·2 S·181B "loc..seq,v2":"version,v1"
+09:46:03.603719 version@stat F·[1] S·181B[181B] Sc·[0.25]
+09:46:03.744219 db@janitor F·3 G·0
+09:46:03.744264 db@open done T·191.8078ms
+09:46:05.294991 db@close closing
+09:46:05.295575 db@close done T·584.5µs
+=============== Dec 31, 2021 (IST) ===============
+10:04:13.339217 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:04:13.340216 version@stat F·[1] S·181B[181B] Sc·[0.25]
+10:04:13.340216 db@open opening
+10:04:13.340216 journal@recovery F·1
+10:04:13.342293 journal@recovery recovering @3
+10:04:13.376167 memdb@flush created L0@5 N·1 S·162B "loc..seq,v4":"loc..seq,v4"
+10:04:13.378350 version@stat F·[2] S·343B[343B] Sc·[0.50]
+10:04:13.484776 db@janitor F·4 G·0
+10:04:13.484776 db@open done T·144.5602ms
+10:04:14.021720 db@close closing
+10:04:14.021720 db@close done T·0s
+=============== Dec 31, 2021 (IST) ===============
+10:12:18.323297 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:12:18.323839 version@stat F·[2] S·343B[343B] Sc·[0.50]
+10:12:18.323839 db@open opening
+10:12:18.323839 journal@recovery F·1
+10:12:18.325967 journal@recovery recovering @6
+10:12:18.357966 memdb@flush created L0@8 N·1 S·162B "loc..seq,v6":"loc..seq,v6"
+10:12:18.360651 version@stat F·[3] S·505B[505B] Sc·[0.75]
+10:12:18.467865 db@janitor F·5 G·0
+10:12:18.467865 db@open done T·144.0251ms
+10:12:20.032125 db@close closing
+10:12:20.032659 db@close done T·533.5µs

@@ -5,6 +5,7 @@
         "homesteadBlock": 0,
         "DAOForkBlock": 0,
         "DAOForkSupport": true,
+        "eip150Block": 0,
         "eip155Block": 0,
         "eip158Block": 0
     },
