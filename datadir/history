@@ -16,3 +16,11 @@ eth.getBalance('0x68Ee9F22879645D2550868478968afC046Abdd97')
 admin.peers
 admin.nodeInfo.enode
 admin.addPeer("enode://e5f5ec56c39ee66254ec1acae7b0d2d8b1955d00ce7da1b79e18f7d2cf5ec7aef8f553b8cf2df5286ca225574cfdea9785c5721c8bbb4f9cd40a91b7d696e500@172.18.24.18:30303")
+eth.accounts
+miner.start()
+miner.stop()
+eth.accounts
+miner.start()
+miner.stop()
+miner.start()
+miner.stop()
